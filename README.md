@@ -11,7 +11,7 @@ A2020a40_S219_170714_SF
 
 Lolipop 5.1.1
 
-# Unlock Bootloader Via PC
+# Unlock Bootloader & Install TWRP Via PC
 
 https://paste.ubuntu.com/p/MpYNVtd5S8/
 
